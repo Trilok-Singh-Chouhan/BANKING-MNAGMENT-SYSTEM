@@ -1,27 +1,27 @@
 # BANKING-MNAGMENT-SYSTEM
-# 🏦 Banking Management System in C++
+# Banking Management System in C++
 
 A **console-based Banking Management System** developed using **C++**, following **Object-Oriented Programming (OOP)** principles and **File Handling** concepts.  
 The project includes a **system-level login module** to protect customer data and a **menu-driven banking system** for managing accounts.
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This project simulates basic banking operations such as account creation, balance inquiry, deposits, withdrawals, and account deletion.  
 Before accessing banking data, the user must **log in or create a system user**, ensuring data security.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔐 System Login Module
+### System Login Module
 - Login using **username & password**
 - Create new system users
 - Supports **usernames with spaces**
 - Credentials stored securely in a text file
 
-### 🏦 Banking System
+### Banking System
 - Create bank account (auto-generated account number)
 - View account balance (table format)
 - Deposit money
