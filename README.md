@@ -52,7 +52,7 @@ Banking-Management-System
 ├── bank.txt
 └── README.md
 ## Sample Output Flow
-===== SYSTEM LOGIN =====
+===== BANK ADMINS LOGIN LOGIN =====
 1. Login
 2. Create User
 3. Exit
